@@ -25,3 +25,5 @@ class OrgInfo:
 		self.lowestCommonManager = lowestCommonManager
 		self.numImportantReports = numImportantReports
 		
+
+	
